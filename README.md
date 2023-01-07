@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ui
 - 📫 #how to reach me ?
-- a=("Follow me on Instagram , LinkedIn")
-- b=("print the link")
-- print(a+b)
-- output - 
+-  
 -         https://www.instagram.com/soni.in_/
 -         https://www.linkedin.com/in/yash-soni-a5a027213/
 
